@@ -1,11 +1,15 @@
-# Python-Basic
+# Python Basic Practice
 
-## English
-This Repo contains basic Python exercise for learning purposes
+## Description
+This repository contains my Python practice as I learn programming step by step.
 
-## Indonesia
-Repo ini berisi latihan Python dasar untuk pemula
+## Topics Covered
+- Variables
+- If-else
+- Loop
+- List
+- Basic function
 
-## 日本語
-このリポジトリはPython基礎学習用です。
+## Purpose
+This repository is part of my journey to become a Python developer and prepare for freelance work.
 
