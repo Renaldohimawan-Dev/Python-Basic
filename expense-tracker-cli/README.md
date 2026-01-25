@@ -1,8 +1,8 @@
 # Expense Tracker CLI (v3)
 
-A simple **Command Line Expense Tracker** built with Python. This project allows users to manage daily expenses using a JSON file for persistent storage. It supports full **CRUD operations** (Create, Read, Update, Delete) and automatically records the date of each expense.
+A simple **Command Line Expense Tracker** built with Python.
 
-This project was built as part of my Python learning journey and is designed to be clean, practical, and portfolio-ready.
+This project is part of my personal learning journey in Python, where I focus on building **real, working applications** rather than isolated exercises. The goal of this project is to practice clean logic, data persistence, and real-world debugging while producing a portfolio-ready CLI application.
 
 ---
 
@@ -98,9 +98,20 @@ This project was built as part of hands-on learning with guidance and iterative 
 
 ---
 
+## 👤 Author
+
+**Renaldo Himawan**
+Aspiring Python Developer
+
+* Focus: Python, CLI tools, automation
+* Learning approach: Build real projects and debug real problems
+
+---
+
 ## 📄 License
 
 This project is open-source and available for learning and personal use.
+
 
 
 
