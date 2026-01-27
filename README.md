@@ -43,7 +43,7 @@ expense-tracker-cli/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker-cli.git
+git clone https://github.com/Renaldohimawan-Dev/expense-tracker-cli.git
 ```
 
 2. Navigate to the project folder:
